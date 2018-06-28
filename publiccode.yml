@@ -3,7 +3,7 @@ publiccode-yaml-version: "http://w3id.org/publiccode/version/0.1"
 name: Steno
 applicationSuite: GorgonProductivitySuite
 url: "https://github.com/gith002/steno.git"        # URL of this repository
-landingURL: "https://steno.example.com"
+landingURL: "https://designers.italia.it"
 
 isBasedOn: "https://github.com/gith002/steno.git"   # The original repository, "Otello"
 softwareVersion: "2.0"                                        # Last stable version
