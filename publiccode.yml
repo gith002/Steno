@@ -5,7 +5,7 @@ applicationSuite: GorgonProductivitySuite
 url: "https://github.com/gith002/steno.git"        # URL of this repository
 landingURL: "https://designers.italia.it"
 
-isBasedOn: "https://github.com/gith002/steno.git"   # The original repository, "Otello"
+isBasedOn: "https://github.com/gith002/euriale.git"   # The original repository, "Otello"
 softwareVersion: "2.0"                                        # Last stable version
 releaseDate: 2018-06-29                     # Date of last stable software release
 logo: img/logo.png
@@ -25,9 +25,9 @@ tags:
 
 freeTags:
   eng:
-    - english-free-tag
+    - english-free-tag-steno
   ita:
-    - tag-libero-italiano
+    - tag-libero-italiano-steno
 
 usedBy:
   - Comune di Modena
