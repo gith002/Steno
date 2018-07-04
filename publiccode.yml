@@ -70,10 +70,10 @@ description:
     apiDocumentation: "https://developers.italia.it/it/api"
 
     featureList:
-       - Very important feature
-       - Will run without a problem
-       - Has zero bugs
-       - Solves all the problems of the world
+       - Not important feature
+       - Will run with problems
+       - Has one thousand bugs
+       - Solves no problems of the world
     screenshots:
        - img/sshot1.png
        - img/sshot2.png
